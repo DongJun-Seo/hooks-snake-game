@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-snake-game/static/css/main.4b9ba6af.chunk.css",
+    "main.js": "/hooks-snake-game/static/js/main.63b60ad4.chunk.js",
+    "main.js.map": "/hooks-snake-game/static/js/main.63b60ad4.chunk.js.map",
+    "runtime-main.js": "/hooks-snake-game/static/js/runtime-main.c5b21a3b.js",
+    "runtime-main.js.map": "/hooks-snake-game/static/js/runtime-main.c5b21a3b.js.map",
+    "static/js/2.55837d61.chunk.js": "/hooks-snake-game/static/js/2.55837d61.chunk.js",
+    "static/js/2.55837d61.chunk.js.map": "/hooks-snake-game/static/js/2.55837d61.chunk.js.map",
+    "static/js/3.40bdf978.chunk.js": "/hooks-snake-game/static/js/3.40bdf978.chunk.js",
+    "static/js/3.40bdf978.chunk.js.map": "/hooks-snake-game/static/js/3.40bdf978.chunk.js.map",
+    "index.html": "/hooks-snake-game/index.html",
+    "static/css/main.4b9ba6af.chunk.css.map": "/hooks-snake-game/static/css/main.4b9ba6af.chunk.css.map",
+    "static/js/2.55837d61.chunk.js.LICENSE.txt": "/hooks-snake-game/static/js/2.55837d61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b21a3b.js",
+    "static/js/2.55837d61.chunk.js",
+    "static/css/main.4b9ba6af.chunk.css",
+    "static/js/main.63b60ad4.chunk.js"
+  ]
+}
